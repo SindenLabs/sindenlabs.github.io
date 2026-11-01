@@ -45,11 +45,6 @@ of it, at any time from **Settings** inside the app.
   [Open Food Facts](https://world.openfoodfacts.org/privacy), a free public
   product database, to find the product's name. The answer is saved on your
   phone so the same barcode is never looked up twice.
-- **On-device AI model download (Android, Settings → Scanning & AI):** if you
-  choose to download the optional Gemma recognition model, the app fetches the
-  model file from Hugging Face. If you enter a Hugging Face access token for
-  that download, it is stored encrypted on your phone and sent only to Hugging
-  Face. Once downloaded, the model runs offline.
 - **Claude AI with your own key (Settings → Advanced):** if you add your own
   Anthropic API key, Snap Food photos are sent over an encrypted connection
   directly to Anthropic's Claude API to identify the foods, and are then
