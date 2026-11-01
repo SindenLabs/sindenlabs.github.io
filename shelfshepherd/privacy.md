@@ -1,6 +1,6 @@
 # Shelf Shepherd — Privacy Policy
 
-_Last updated: October 30, 2026_
+_Last updated: October 31, 2026_
 
 Shelf Shepherd is a household food-tracking app for Android and iPhone. It is
 designed to work entirely on your device.
@@ -20,7 +20,7 @@ turned off again at any time in **Settings**.
 Everything you enter — your food inventory, shopping list, savings history,
 and preferences — is stored locally on your device in the app's private
 storage. Your phone's own backup (Google or iCloud) may include this data under
-that service's terms; saved keys and tokens are excluded from Android backups.
+that service's terms; a saved key is excluded from Android backups.
 
 You can export all of your data as a readable file, or permanently delete all
 of it, at any time from **Settings** inside the app.
@@ -88,4 +88,4 @@ in-app description of the feature will explain exactly what is sent.
 
 ## Contact
 
-Questions: sindenlabs+ShelfShepherd@gmail.com, or Settings → Send feedback in the app.
+Questions: sindenlabs+shelfshepherd@gmail.com, or Settings → Send feedback in the app.
