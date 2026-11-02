@@ -1,6 +1,6 @@
 # Shelf Shepherd — Privacy Policy
 
-_Last updated: October 31, 2026_
+_Last updated: November 2, 2026_
 
 Shelf Shepherd is a household food-tracking app for Android and iPhone. It is
 designed to work entirely on your device.
@@ -56,12 +56,12 @@ of it, at any time from **Settings** inside the app.
 ## Feedback you send
 
 **Settings → Send feedback** opens your own email app with a message addressed
-to us; nothing is sent unless you press Send there. The email holds what you
-write, the topic you pick, any screenshots or photos you choose to attach
-(re-saved without location or camera details) and, unless you switch it off,
-the app version, phone model, system version and whether you use Free, Trial
-or Premium. It never includes anything about your food or kitchen. We use
-feedback emails only to reply to you and to improve the app.
+to support@shelfshepherd.com; nothing is sent unless you press Send there.
+The email holds what you write, the topic you pick, any screenshots or photos
+you choose to attach (re-saved without location or camera details) and, unless
+you switch it off, the app version, phone model, system version and whether
+you use Free, Trial or Premium. It never includes anything about your food or
+kitchen. We use feedback emails only to reply to you and to improve the app.
 
 ## External links
 
@@ -88,4 +88,4 @@ in-app description of the feature will explain exactly what is sent.
 
 ## Contact
 
-Questions: sindenlabs+shelfshepherd@gmail.com, or Settings → Send feedback in the app.
+Questions: support@shelfshepherd.com, or Settings → Send feedback in the app.
